@@ -8,35 +8,35 @@
 </div>
 
 # 💻 Tech Stack
-### 💻 Programming Languages
+###💻 Programming Languages
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=javascript" alt="JavaScript" /> <img src="https://img.shields.io/badge/Java-3178C6?style=flat&logo=java" alt="Java" /> <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=python" alt="Python" />
 </p>
-### 🌐 Frontend Development
+###🌐 Frontend Development
 <p>
 <img src="https://img.shields.io/badge/HTML5-61DAFB?style=flat&logo=html5" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-61DAFB?style=flat&logo=css3" alt="CSS3" /> <img src="https://img.shields.io/badge/Bootstrap-61DAFB?style=flat&logo=bootstrap" alt="Bootstrap" />
 </p>
-### 🛢 Database
+###🛢 Database
 <p>
 <img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase" alt="Firebase" /> <img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" />
 </p>
-### ☁️ Cloud & Hosting
+###☁️ Cloud & Hosting
 <p>
 <img src="https://img.shields.io/badge/Docker-333333?style=flat&logo=docker" alt="Docker" />
 </p>
-### 🔧 DevOps & CI/CD
+###🔧 DevOps & CI/CD
 <p>
 <img src="https://img.shields.io/badge/Git-2496ED?style=flat&logo=git" alt="Git" /> <img src="https://img.shields.io/badge/Linux-2496ED?style=flat&logo=linux" alt="Linux" /> <img src="https://img.shields.io/badge/Nginx-2496ED?style=flat&logo=nginx" alt="Nginx" />
 </p>
-### 🧪 Testing
+###🧪 Testing
 <p>
 <img src="https://img.shields.io/badge/Postman-333333?style=flat&logo=postman" alt="Postman" />
 </p>
-### 📱 Mobile Development
+###📱 Mobile Development
 <p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android" alt="Android" /> <img src="https://img.shields.io/badge/Flutter-3DDC84?style=flat&logo=flutter" alt="Flutter" />
 </p>
-### 🛠 Tools & IDE
+###🛠 Tools & IDE
 <p>
 <img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git" alt="Git" />
 </p>
